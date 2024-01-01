@@ -67,7 +67,7 @@ export default function Home() {
 
     <h3>8.1</h3>
     <p>If you have any questions or concerns regarding this Privacy Policy or our app's privacy practices, please contact us
-        at [satvir6singh@gmail.com].</p>
+        at [singh6king@gmail.com].</p>
 
 </body>
 
