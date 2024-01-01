@@ -7,7 +7,7 @@ export default function Home() {
 <body>
     <h1>Privacy Policy</h1>
 
-    <p><em>Last updated: [Date]</em></p>
+    <p><em>Last updated: [01-01-2024]</em></p>
 
     <p>Please read this Privacy Policy carefully before using the <strong>InterviewPro</strong> mobile application (the
         "App").</p>
@@ -67,7 +67,7 @@ export default function Home() {
 
     <h3>8.1</h3>
     <p>If you have any questions or concerns regarding this Privacy Policy or our app's privacy practices, please contact us
-        at [contact email].</p>
+        at [satvir6singh@gmail.com].</p>
 
 </body>
 
