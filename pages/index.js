@@ -4,9 +4,6 @@ import Footer from '@components/Footer'
 
 export default function Home() {
   return (
-<head>
-    <title>Privacy Policy</title>
-</head>
 <body>
     <header>
         <h1>Privacy Policy</h1>
